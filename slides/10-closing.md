@@ -39,5 +39,5 @@ and <a href="https://twitter.com/blairmacintyre">@blairmacintyre</a></p>
     <li>Mozilla Social Hubs coming soon! Watch https://blog.mozvr.com/  </li>
 </ul>
 
-<p>This talk available at <a href="https://blairmacintyre.github.io/chi-arvr-2018">https://blairmacintyre.github.io/chi-arvr-2018</a></p>
+<p>This talk available at <a href="https://blairmacintyre.github.io/chi-arvr-workshop-2018">https://blairmacintyre.github.io/chi-arvr-workshop-2018</a></p>
 
