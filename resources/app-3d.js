@@ -177,6 +177,11 @@ class PageApp extends XRExampleBase {
                     var markerbox = new THREE.Object3D();
                     if (this.firstMarker) {
                         this.firstMarker = false;
+                        this.ducky.quaternion.setFromAxisAngle(new THREE.Vector3(1, 0, 0), Math.PI/2)
+                        this.ducky.scale.set(0.5, 0.5, 0.5)
+
+                        // this.ducky.rotation.set(90,0,0)
+                        // this.ducky.position.set(0,0,0.0)
                         markerbox.add(this.ducky)
                     } else {
                         // Add a box 
@@ -390,10 +395,6 @@ class PageApp extends XRExampleBase {
             console.error('could not load gltf', ...params)
         })
         loadGLTF('./resources/models/DuckyMesh.glb').then(gltf => {
-            gltf.scene.scale.set(1, 1, 1)
-            gltf.scene.position.set(0, 0, -1)
-            gltf.scene.quaternion.setFromAxisAngle(new THREE.Vector3(0, 1, 0), Math.PI)
-
             this.ducky = gltf.scene;
         }).catch((...params) =>{
             console.error('could not load gltf', ...params)
