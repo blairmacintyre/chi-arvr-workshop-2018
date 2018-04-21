@@ -6,6 +6,28 @@ I'm at mozilla, why?
 
 ------
 <!-- .slide: data-background="resources/textures/argonjs-github.png" data-background-size="contain" data-background-repeat="no-repeat" -->
+------
+<!-- .slide: data-background-video="resources/videos/shadow-movie4-406p.m4v" -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<blockquote style="background: rgba(32, 32, 32, 0.5);">
+    Want to make it possible to mix media with a <br>
+    person's perception of the world<br>
+    <span class="green">_registered in 3D_</span>
+    <span class="green">, _in real-time_</span>,<br>
+    <span>_in web browsers_</span>
+</blockquote>
+
 
 ------
 <!-- .slide: data-background="resources/textures/background-radial.jpeg" -->
@@ -115,7 +137,8 @@ WebVR support available on all platforms from at least one major browser (Vive, 
 
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 <div style="background: rgba(32, 32, 32, 0.5);">
-    <h2>Easy to Integrate VR with Web Tools</h1>
+    <h2>Easy to Integrate AR/VR/MR212075
+     with Web Tools</h1>
 
   <div class="captioned-image-row">
     <div>
@@ -146,28 +169,6 @@ WebVR support available on all platforms from at least one major browser (Vive, 
 </div>
 
 <!-- .slide: data-background="media/img/scene-collage.jpg" -->
-
-------
-<!-- .slide: data-background-video="resources/videos/shadow-movie4-406p.m4v" -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-    It will finally be possible to mix media with a <br>
-    person's perception of the world<br>
-    <span class="green">_registered in 3D_</span>
-    <span class="green">, _in real-time_</span>,<br>
-    <span>_in commodity web browsers_</span>
-</blockquote>
 
 
 ------

@@ -15,6 +15,7 @@
 
 <h2>Web as an AR/VR collaboration platform</h2>
 <p>No need for apps and big VR platforms; collaborate around Web things</p>
+<br>
 <p>Leverage web for networking, multiuser, media</p>
 <p>Platform independent, including CV</p>
 <br>

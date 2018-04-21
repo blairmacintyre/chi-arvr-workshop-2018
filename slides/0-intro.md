@@ -15,7 +15,7 @@
 ------
 <!-- .slide: data-background="resources/textures/terminator.png" -->
 <blockquote style="background: rgba(32, 32, 32, 0.5);">
-<h2>Ok, I admit it, I'm Mostly Interested in AR</h2>
+<h2>I've been Mostly Interested in AR</h2>
   <p>(versus MR, VR, etc)</p>
   <h2>But cross-reality collaboration is where the action will be!</h2>
 </blockquote>

@@ -54,8 +54,8 @@ NSF Project at Georgia Tech, led by Magnus Egerstedt
 
 <!-- .slide: data-background-color="#000000" data-background-size="contain" data-background-position="center" data-background="resources/textures/vr16-ar-redirected-gaze.png" -->
 <blockquote style="background: rgba(32, 32, 32, 0.5);">
-<h2>AR/VR Heterogenous Environment Layout</h2>
-Remap avatar gaze to maintain gaze awareness
+<h2>Distributed AR/VR Collaboration</h2>
+Remap avatar gaze to maintain gaze awareness in heterogenous environments 
 </blockquote>
 
 ------
