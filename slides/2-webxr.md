@@ -188,44 +188,6 @@ WebVR support available on all platforms from at least one major browser (Vive, 
 </ul>
 </div>
 ------
-<!-- .slide: data-background="resources/textures/servo.org.png" data-background-size="contain" data-background-repeat="no-repeat" -->
-
-
-------
-<!-- .slide: data-background-video="resources/videos/servo-page-3d.mp4" -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-<h3>Experiment with XR capabilities in Servo</h3>
-<em>2D DOM content in 3D, mixed 2D/3D apps</em>
-<p><em>XR extensions for CV, new DOM elements, ...</em></p>
-</blockquote>
-------
-<!-- .slide: data-background-video="resources/videos/playcanvas-scene-720p.mp4" -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<blockquote style="background: rgba(32, 32, 32, 0.5);">
-<h3>High Performance Graphics with WebGL2</h3>
-<em>(here: Playcanvas demo, iMac, Firefox)</em>
-<p><em>Experimenting with Vulcan, WebGL extensions, next-gen Web GPU</em></p> 
-</blockquote>
-------
 <!-- .slide: data-background-video="resources/videos/castle-world-social-groupchat-720p.mp4" -->
 <br>
 <br>
@@ -249,6 +211,42 @@ i think the best we are able to say is we intend to try to abstract out large ch
 <!-- .slide: data-background-color="#000000" data-background-size="contain" data-background-position="center" data-background-video="resources/videos/ducks-and-physics.mp4" -->
 ------
 <!-- .slide: data-background-color="#000000" data-background-size="contain" data-background-position="center" data-background-video="resources/videos/ar-vr-social-gods-eye.mp4" -->
+------
+<!-- .slide: data-background-color="#ffffff" data-background="resources/textures/firefox-reality-blog.png" data-background-size="contain" data-background-repeat="no-repeat" -->
+------
+<!-- .slide: data-background-video="resources/videos/servo-page-3d.mp4" -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<blockquote style="background: rgba(32, 32, 32, 0.5);">
+<h3>Experiment with XR capabilities in Servo and Gecko</h3>
+<em>2D DOM content in 3D, mixed 2D/3D apps</em>
+<p><em>XR extensions for CV, new DOM elements, ...</em></p>
+</blockquote>
+------
+<!-- .slide: data-background-video="resources/videos/playcanvas-scene-720p.mp4" -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<blockquote style="background: rgba(32, 32, 32, 0.5);">
+<h3>High Performance Graphics with WebGL2</h3>
+<em>(here: Playcanvas demo, iMac, Firefox)</em>
+<p><em>Experimenting with Vulcan, WebGL extensions, next-gen Web GPU</em></p> 
+</blockquote>
 
 ------
 <!-- .slide: data-state="xrslide vrslide" -->
